@@ -1,4 +1,4 @@
-var slideShowArray = ['zero.png', 'frost1.png']
+var slideShowArray = ['zero.png', 'origineelblikje.png']
 
 var index = 0;
 
