@@ -32,21 +32,6 @@ a{
     text-decoration: none;
 }
 
-#rocket{
-    font-size: 100px;
-    margin-left: 210px;
-    margin-top: 200px;
-    color: yellow;
-    position: absolute;
-}
-
-#fuel{
-    font-size: 100px;
-    margin-left: 530px;
-    margin-top: 200px;
-    color:#A52A2A;
-}
-
 article img{
     width: 100vw;
     height: -100px;
