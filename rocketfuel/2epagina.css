@@ -1,0 +1,38 @@
+*{margin:0; padding: 0;}
+
+header{
+    width: 100vw;
+    height: -200px;
+    margin-top: 2vh;
+    position: absolute;
+}
+
+#navigatie{
+    float: right;
+    list-style: none;
+}
+
+ul{
+    list-style: none;
+    margin-left: -100px;
+}
+
+li{
+    float: left;
+    padding: 40px;
+    font-size: 25px;
+    list-style: none;
+}
+
+a{
+    background-color: #FF4500;
+    padding: 10px;
+    border-radius: 20px;
+    color: yellow;
+    text-decoration: none;
+}
+
+article img{
+    width: 100vw;
+    height: -100px;
+}
