@@ -12,9 +12,9 @@ header{
     list-style: none;
 }
 
-ul{
+#ul1{
     list-style: none;
-    margin-left: -100px;
+    margin-left: 100px;
 }
 
 li{
@@ -26,7 +26,7 @@ li{
 
 a{
     background-color: #FF4500;
-    padding: 10px;
+    padding: 8px;
     border-radius: 20px;
     color: yellow;
     text-decoration: none;
@@ -34,20 +34,43 @@ a{
 
 #rocket{
     font-size: 100px;
-    margin-left: 210px;
-    margin-top: 200px;
+    margin-left: 430px;
+    margin-top: -100px;
     color: yellow;
     position: absolute;
 }
 
 #fuel{
     font-size: 100px;
-    margin-left: 530px;
-    margin-top: 200px;
+    margin-left: 750px;
+    margin-top: -100px;
     color:#A52A2A;
+    position: absolute;
 }
 
 article img{
     width: 100vw;
     height: -70px;
+}
+
+#ul2{
+     margin-top: 300px;
+     margin-left: -100px;
+}
+
+#ul3{
+    margin-top: 120px;
+    margin-left: -425px;
+}
+
+#ul4{
+    margin-top: 60px;
+    margin-left: -425px;
+}
+
+#foto2{
+    width: 1400px;
+    position: absolute;
+    margin-top: -150px;
+    margin-left: 150px;
 }
