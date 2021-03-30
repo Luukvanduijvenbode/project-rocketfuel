@@ -35,4 +35,5 @@ a{
 article img{
     width: 100vw;
     height: -100px;
+    margin-top: -130px;
 }
