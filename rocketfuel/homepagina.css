@@ -2,8 +2,8 @@
 
 header{
     width: 100vw;
-    height: 130px;
-    margin-top: -63vh;
+    height: -200px;
+    margin-top: 2vh;
     position: absolute;
 }
 
@@ -34,7 +34,7 @@ a{
 
 #rocket{
     font-size: 100px;
-    margin-left: 200px;
+    margin-left: 210px;
     margin-top: 200px;
     color: yellow;
     position: absolute;
@@ -42,13 +42,12 @@ a{
 
 #fuel{
     font-size: 100px;
-    margin-left: 520px;
+    margin-left: 530px;
     margin-top: 200px;
     color:#A52A2A;
 }
 
 article img{
     width: 100vw;
-    height: 98vh;
-    margin-top: -480px;
+    height: -100px;
 }
