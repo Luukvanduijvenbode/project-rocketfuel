@@ -3,7 +3,7 @@
 header{
     width: 100vw;
     height: -200px;
-    margin-top: 2vw;
+    margin-top: -0vw;
     position: absolute;
 }
 
@@ -50,11 +50,4 @@ a{
 article img{
     width: 100vw;
     height: -70px;
-}
-
-#foto1{
-    margin-top: 150px;
-    position: absolute;
-    width: 550px;
-    margin-left: 1000px;
 }
