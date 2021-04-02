@@ -1,5 +1,10 @@
 *{margin:0; padding: 0;} 
 
+body { 
+margin-top: -10vw;
+}
+
+
 header{
     width: 100vw;
     height: -200px;
@@ -10,11 +15,6 @@ header{
 #navigatie{
     float: right;
     list-style: none;
-}
-
-#ul1{
-    list-style: none;
-    margin-left: 100px;
 }
 
 li{
@@ -35,7 +35,7 @@ a{
 #rocket{
     font-size: 100px;
     margin-left: 430px;
-    margin-top: -100px;
+    margin-top: -300px;
     color: yellow;
     position: absolute;
 }
@@ -43,29 +43,14 @@ a{
 #fuel{
     font-size: 100px;
     margin-left: 750px;
-    margin-top: -100px;
+    margin-top: -300px;
     color:#A52A2A;
     position: absolute;
 }
 
 article img{
     width: 100vw;
-    height: -70px;
-}
-
-#ul2{
-     margin-top: 300px;
-     margin-left: -100px;
-}
-
-#ul3{
-    margin-top: 120px;
-    margin-left: -425px;
-}
-
-#ul4{
-    margin-top: 60px;
-    margin-left: -425px;
+    height: -5px;
 }
 
 #foto2{
@@ -73,4 +58,13 @@ article img{
     position: absolute;
     margin-top: -150px;
     margin-left: 150px;
+}
+
+#foto3{
+    margin-top: 335px;
+    position: absolute;
+    width: 1000px;
+    margin-left: 320px;
+    height: 400px;
+    object-fit: cover;
 }
